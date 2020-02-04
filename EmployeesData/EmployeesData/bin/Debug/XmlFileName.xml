@@ -1,0 +1,31 @@
+<?xml version="1.0"?>
+<ArrayOfEmployee xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Employee>
+    <EmployeeFirstName>Cristi</EmployeeFirstName>
+    <EmployeeLastName>Ronaldo</EmployeeLastName>
+    <EmployeeFathersName>Yuriyovichjhhh</EmployeeFathersName>
+    <EmployeeID>45659754</EmployeeID>
+    <SalaryPerHour>16</SalaryPerHour>
+  </Employee>
+  <Employee>
+    <EmployeeFirstName>Erica</EmployeeFirstName>
+    <EmployeeLastName>Hale</EmployeeLastName>
+    <EmployeeFathersName>Bogdanivna</EmployeeFathersName>
+    <EmployeeID>12354878</EmployeeID>
+    <SalaryPerHour>5</SalaryPerHour>
+  </Employee>
+  <Employee>
+    <EmployeeFirstName>Megan</EmployeeFirstName>
+    <EmployeeLastName>Fox</EmployeeLastName>
+    <EmployeeFathersName>Ivanivna</EmployeeFathersName>
+    <EmployeeID>78874542</EmployeeID>
+    <SalaryPerHour>18</SalaryPerHour>
+  </Employee>
+  <Employee>
+    <EmployeeFirstName>Name</EmployeeFirstName>
+    <EmployeeLastName>Some</EmployeeLastName>
+    <EmployeeFathersName>SoamName</EmployeeFathersName>
+    <EmployeeID>10000049</EmployeeID>
+    <SalaryPerHour>50</SalaryPerHour>
+  </Employee>
+</ArrayOfEmployee>
